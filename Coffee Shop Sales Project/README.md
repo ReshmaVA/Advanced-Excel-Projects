@@ -329,7 +329,7 @@ Coffee Shop Sales Dashboard.xlsx
 
 **Reshma**
 
-Aspiring Data Analyst | Data Scientist
+Aspiring Data Scientist | Data Analyst 
 
 ### Skills
 
@@ -341,4 +341,17 @@ Aspiring Data Analyst | Data Scientist
 - Power BI
 - MongoDB
 
-# 👤 Author
+
+
+
+
+
+
+
+
+
+
+
+
+
+
