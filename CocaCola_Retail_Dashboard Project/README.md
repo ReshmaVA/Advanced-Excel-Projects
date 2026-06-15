@@ -245,8 +245,21 @@ The dashboard helps stakeholders:
 
 ## 👩‍💻 Author
 
+##Reshma##
+
+Aspiring Data Scientist with skills in:
+
+Advanced Excel
+SQL
+Python
+Power BI
+Statistics
+Machine Learning
+MongoDB
+
+This project demonstrates the ability to transform business data into meaningful insights through effective dashboard design and analytical reporting.
+
+
+
 **Reshma**
 
-Data Analytics & Business Intelligence Portfolio Project
-
-This project showcases practical skills in Excel-based analytics, dashboard development, automation, and business reporting commonly used in Data Analyst and Business Analyst roles.
