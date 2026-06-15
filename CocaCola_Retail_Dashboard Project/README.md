@@ -243,3 +243,20 @@ The dashboard helps stakeholders:
 
 ---
 
+**Reshma**
+
+Aspiring Data Scientist with skills in:
+
+* Advanced Excel
+* SQL
+* Python
+* Power BI
+* Statistics
+* Machine Learning
+* MongoDB
+
+This project demonstrates the ability to transform business data into meaningful insights through effective dashboard design and analytical reporting.
+
+---
+
+
