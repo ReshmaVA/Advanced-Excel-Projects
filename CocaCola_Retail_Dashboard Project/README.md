@@ -242,6 +242,7 @@ The dashboard helps stakeholders:
 * Machine Learning-Based Demand Forecasting
 
 ---
+## 👩‍💻 Author
 
 **Reshma**
 
