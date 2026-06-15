@@ -2,7 +2,8 @@
 
 
 > ```md
-> CocaCola_Retail_Dashboard Project/screenshots/dashboard_overview.png
+> ![Dashboard Overview](screenshots/dashboard_overview.png)
+
 > ```
 
 
