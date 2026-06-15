@@ -1,12 +1,5 @@
 # 🥤 Coca-Cola Retail Sales Dashboard
 
-
-
-> ![Dashboard Overview](screenshots/dashboard_overview.png)
-
-
-
-
 ## 📌 Project Overview
 
 The Coca-Cola Retail Sales Dashboard is an interactive Business Intelligence solution developed in Microsoft Excel using VBA, Pivot Tables, Pivot Charts, and Slicers. The dashboard enables users to analyze retail sales performance, monitor key business metrics, and gain actionable insights through dynamic visualizations and automated reporting.
@@ -14,6 +7,15 @@ The Coca-Cola Retail Sales Dashboard is an interactive Business Intelligence sol
 The project demonstrates expertise in Excel-based analytics, dashboard design, automation, and business reporting.
 
 ---
+
+## Dashboard Preview
+
+### Dashboard Overview
+
+> ![Dashboard Overview](screenshots/dashboard_overview.png)
+
+---
+
 
 ## 🎯 Business Objective
 
@@ -200,61 +202,19 @@ The dashboard helps stakeholders:
 
 # 📷 Dashboard Screenshots
 
-## Homepage
+## Dashboard Filters and Slicers
 
-> **Insert Screenshot Here**
->
-> File Path Example:
->
-> ```md
-> ![Homepage](screenshots/homepage.png)
-> ```
+> Filter is applied on Brands Slicer shows retail reports for Fanta
+
+> ![dashboard_filters](screenshots/dashboard_filters.png)
 
 ---
 
-## Analysis Page
+## Dashboard Analysis
 
-> **Insert Analysis Screenshot Here**
->
-> File Path Example:
->
-> ```md
-> ![Analysis](screenshots/analysis.png)
-> ```
+> In the month of April the most profitable brand is Coca Cola and the Top Retailer is Soda Pop.
 
----
-
-## Pivot Tables & Backend Data Model
-
-> **Insert Pivot Table Screenshot Here**
->
-> File Path Example:
->
-> ```md
-> ![Pivot Tables](screenshots/pivot_tables.png)
-> ```
-
----
-
-## Refresh Macro Demonstration
-
-> **Insert Screenshot Showing Refresh Button or VBA Automation**
->
-> File Path Example:
->
-> ```md
-> ![Refresh Macro](screenshots/refresh_macro.png)
-> ```
-
----
-
-## 💼 Resume Project Highlights
-
-* Developed an interactive Coca-Cola Retail Sales Dashboard using Microsoft Excel, VBA, Pivot Tables, and Pivot Charts.
-* Automated reporting workflows through VBA macros, reducing manual effort and improving report efficiency.
-* Designed dynamic KPI dashboards for monitoring retailer and beverage brand performance.
-* Implemented slicer-based filtering for interactive business analysis and decision support.
-* Built a scalable reporting solution capable of handling large retail sales datasets.
+> ![dashboard_analysis](screenshots/dashboard_analysis.png)
 
 ---
 
