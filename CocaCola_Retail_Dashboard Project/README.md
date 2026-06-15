@@ -1,10 +1,10 @@
 # 🥤 Coca-Cola Retail Sales Dashboard
 
 
-> ```md
+
 > ![Dashboard Overview](screenshots/dashboard_overview.png)
 
-> ```
+
 
 
 ## 📌 Project Overview
