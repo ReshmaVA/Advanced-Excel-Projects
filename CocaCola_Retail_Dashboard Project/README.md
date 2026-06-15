@@ -2,7 +2,7 @@
 
 
 > ```md
-> ![Dashboard Overview](screenshots/dashboard-overview.png)
+> CocaCola_Retail_Dashboard Project/screenshots/dashboard_overview.png
 > ```
 
 
