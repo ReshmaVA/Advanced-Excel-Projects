@@ -1,28 +1,49 @@
 # 📊 Sales Report Dashboard | Advanced Excel Project
 
-## Project Overview
+## Overview
 
-This project is an interactive Sales Report Dashboard developed using Microsoft Excel (Advanced Excel) to analyze and visualize business sales performance. The dashboard transforms raw sales data into meaningful insights through dynamic visualizations, KPIs, Pivot Tables, and interactive filters, enabling efficient decision-making and performance tracking.
+This project presents an interactive **Sales Report Dashboard** developed using **Microsoft Excel (Advanced Excel)**. The dashboard provides a comprehensive analysis of sales performance through dynamic visualizations, KPI tracking, Pivot Tables, Pivot Charts, and interactive slicers.
 
-The objective of this project was to create a user-friendly reporting solution that provides a comprehensive view of sales performance across different products, regions, categories, and time periods.
-
----
-
-## Business Problem
-
-Organizations generate large volumes of sales data, making it difficult to identify trends, monitor performance, and make informed decisions. Manual reporting is time-consuming and often lacks interactive capabilities.
-
-This dashboard addresses these challenges by providing:
-
-* Real-time sales performance monitoring
-* Interactive data exploration
-* Trend analysis and comparison
-* Product and regional performance evaluation
-* Executive-level business insights
+The objective of this project is to transform raw sales data into actionable business insights, enabling stakeholders to monitor performance, identify trends, and support data-driven decision-making.
 
 ---
 
-## Tools & Technologies Used
+## Dashboard Preview
+
+### Dashboard Overview
+
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+---
+
+### Interactive Filters & Slicers
+
+> Sales Dashboard for Apple in United States
+
+
+![Dashboard Filters](screenshots/dashboard-filters.png)
+
+---
+
+### Sales Analysis View
+
+> Maximum Sales has declined for Onions in Vegetables
+![Sales Analysis](screenshots/dashboard-analysis.png)
+
+---
+
+## Business Objectives
+
+* Monitor overall sales performance
+* Analyze revenue trends over time
+* Identify top-performing products and categories
+* Evaluate regional sales performance
+* Support business decision-making through interactive reporting
+
+---
+
+## Tools & Technologies
 
 * Microsoft Excel
 * Pivot Tables
@@ -31,20 +52,16 @@ This dashboard addresses these challenges by providing:
 * Conditional Formatting
 * Data Validation
 * Advanced Excel Formulas
-* Dashboard Design Techniques
-* VBA/Macros (if applicable)
+* Dashboard Design & Visualization
+* VBA / Macros
 
 ---
 
 ## Key Features
 
-### 1. Interactive Dashboard
+### KPI Tracking
 
-Implemented slicers and filters that allow users to dynamically explore sales data based on different business dimensions.
-
-### 2. KPI Monitoring
-
-Created key performance indicators to track:
+The dashboard tracks important business metrics such as:
 
 * Total Sales
 * Revenue
@@ -52,75 +69,93 @@ Created key performance indicators to track:
 * Product Performance
 * Regional Performance
 
-### 3. Sales Trend Analysis
+### Interactive Dashboard
 
-Analyzed sales trends over time to identify growth patterns, seasonality, and performance fluctuations.
+Users can dynamically filter and analyze data using slicers and interactive controls.
 
-### 4. Product Performance Analysis
+### Sales Trend Analysis
 
-Evaluated top-performing and low-performing products to support inventory and marketing decisions.
+Visual representations help identify monthly and yearly sales trends.
 
-### 5. Regional Analysis
+### Product Performance Analysis
 
-Compared sales across multiple regions to identify profitable markets and potential growth opportunities.
+Highlights best-performing and underperforming products based on sales metrics.
 
-### 6. Data Visualization
+### Regional Insights
 
-Designed visually appealing charts and graphs to simplify complex datasets and improve business understanding.
+Provides comparisons across regions to identify growth opportunities and business performance patterns.
 
 ---
 
 ## Project Workflow
 
-### Step 1: Data Collection
+### 1. Data Collection
 
 Collected and organized raw sales transaction data.
 
-### Step 2: Data Cleaning
+### 2. Data Cleaning
 
-Performed data validation and formatting to ensure consistency and accuracy.
+Performed data validation, formatting, and preprocessing to ensure data accuracy.
 
-### Step 3: Data Transformation
+### 3. Data Transformation
 
-Structured data into analysis-ready formats using Excel functions and Pivot Tables.
+Used Excel functions and Pivot Tables to prepare data for analysis.
 
-### Step 4: Dashboard Development
+### 4. Dashboard Development
 
-Created interactive reports and visualizations using Pivot Charts, KPIs, and slicers.
+Designed interactive visualizations, KPI cards, charts, and slicers.
 
-### Step 5: Business Analysis
+### 5. Business Analysis
 
-Generated actionable insights regarding sales performance, customer behavior, and product trends.
+Generated actionable insights to support strategic decision-making.
 
 ---
 
 ## Skills Demonstrated
 
 * Data Analysis
-* Business Intelligence Reporting
-* Dashboard Development
+* Data Cleaning
 * Data Visualization
-* Data Cleaning and Preparation
+* Dashboard Development
+* Business Intelligence Reporting
 * Excel Automation
 * Analytical Thinking
-* Decision Support Analysis
+* Problem Solving
 
 ---
 
-## Outcomes
+## Project Structure
 
-* Improved visibility into business performance
-* Reduced time required for manual reporting
-* Enabled interactive sales analysis
-* Facilitated data-driven decision making
+```text
+sales-report-dashboard-excel/
+│
+├── Sales_Report_Dashboard.xlsm
+├── README.md
+│
+└── screenshots/
+    ├── dashboard-overview.png
+    ├── dashboard-filters.png
+    └── dashboard-analysis.png
+```
+
+---
+
+## Key Insights
+
+The dashboard can be used to answer business questions such as:
+
+* Which products generate the highest sales?
+* Which regions contribute the most revenue?
+* How does sales performance vary over time?
+* What are the top-performing product categories?
+* Which business segments require improvement?
 
 ---
 
 ## Future Enhancements
 
-* Integration with SQL databases
-* Power BI dashboard version
-* Automated data refresh using VBA
+* Power BI version of the dashboard
+* SQL database integration
 * Sales forecasting using Python and Machine Learning
 * Customer segmentation analysis
 
@@ -128,4 +163,18 @@ Generated actionable insights regarding sales performance, customer behavior, an
 
 ## Author
 
-Aspiring Data Analyst / Data Scientist with hands-on experience in Advanced Excel, SQL, Python, Power BI, Statistics, Machine Learning, and Data Visualization. This project demonstrates the ability to convert business data into actionable insights through analytical reporting and dashboard design.
+**Reshma**
+
+Aspiring Data Scientist with skills in:
+
+* Advanced Excel
+* SQL
+* Python
+* Power BI
+* Statistics
+* Machine Learning
+* MongoDB
+
+This project demonstrates the ability to transform business data into meaningful insights through effective dashboard design and analytical reporting.
+
+---
