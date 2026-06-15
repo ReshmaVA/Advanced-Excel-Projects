@@ -325,6 +325,7 @@ Coffee Shop Sales Dashboard.xlsx
 - Performance Monitoring
 
 ---
+## 👩‍💻 Author
 
 **Reshma**
 
