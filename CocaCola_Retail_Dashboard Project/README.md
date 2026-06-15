@@ -2,7 +2,7 @@
 
 
 > ```md
-> ![Dashboard](screenshots/dashboard_overview.png)
+> ![Dashboard Overview](screenshots/dashboard-overview.png)
 > ```
 
 
