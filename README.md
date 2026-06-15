@@ -2,4 +2,4 @@
 
 ### Coca Cola Retail Dashboard
 
-> CocaCola_Retail_Dashboard Project
+> ![Dashboard Overview](/CocaCola_Retail_Dashboard Project/screenshots/dashboard_overview.png)
