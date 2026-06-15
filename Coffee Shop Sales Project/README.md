@@ -326,4 +326,18 @@ Coffee Shop Sales Dashboard.xlsx
 
 ---
 
+**Reshma**
+
+Aspiring Data Analyst | Data Scientist
+
+### Skills
+
+- Excel
+- SQL
+- Python
+- Statistics
+- Machine Learning
+- Power BI
+- MongoDB
+
 # 👤 Author
