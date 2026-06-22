@@ -12,4 +12,9 @@
 
 ### Sales Report Dashboard
 
-![dashboard-overview](CocaCola_Retail_Dashboard%20Project/screenshots/dashboard-overview.png)
+![dashboard-overview](Sales_Report_Dashboard%20Project/screenshots/dashboard-overview.png)
+
+
+### Coffee Shop Sales Dashboard
+
+![dashboard_overview](Sales_Report_Dashboard%20Project/screenshots/dashboard_overview.png)
