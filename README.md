@@ -17,4 +17,4 @@
 
 ### Coffee Shop Sales Dashboard
 
-![dashboard_overview](Sales_Report_Dashboard%20Project/screenshots/dashboard_overview.png)
+![dashboard_overview](Coffee%20Shop%20Sales%20Project/screenshots/dashboard_overview.png)
